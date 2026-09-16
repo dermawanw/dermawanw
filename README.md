@@ -1,97 +1,146 @@
 <h1 align="center">Hi 👋, I'm Rizal Dermawan</h1>
 
 <h3 align="center">
-Computer Science Student • Aspiring AI Engineer • Machine Learning & Computer Vision
+AI Engineering • Embodied AI • Computer Vision • Robotics
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dermawanw&label=Profile%20views&style=flat" alt="dermawanw" />
+  <img src="https://komarev.com/ghpvc/?username=dermawanw&label=Profile%20Views&style=flat" alt="dermawanw" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About Me
 
-* 🤖 Currently building **AI and Machine Learning projects**
-* 🧠 Learning **Machine Learning, Deep Learning, MLOps, Robotics, and AI Engineering**
-* 👁️ Interested in **Computer Vision, Intelligent Systems, and AI Agents**
-* 🛠️ Currently working on **Baymax AI Assistant**
-* 🚀 My long-term goal is to become an **AI Engineer**
-* ⚡ I like turning weird ideas into real AI projects
+I'm a Computer Science student exploring the intersection of **Artificial Intelligence and Robotics**.
 
----
+My current direction is toward **Embodied AI** — intelligent systems that can perceive their environment, understand instructions, make decisions, and interact with the physical world.
 
-### 🚀 Featured Project
-
-#### 🤖 Baymax AI Assistant
-
-A personal AI assistant project focused on experimenting with intelligent systems and AI-powered interaction.
-
-[View Repository](https://github.com/dermawanw/baymax_1.2)
+* 🤖 Currently learning **AI Engineering & Embodied AI**
+* 👁️ Exploring **Computer Vision, Robot Perception, and Intelligent Agents**
+* 🦾 Learning **ROS 2, robotics simulation, and robot control**
+* 🧠 Building stronger foundations in **Machine Learning & Deep Learning**
+* ⚙️ Interested in **MLOps, deployment, monitoring, and production AI systems**
+* 🐧 Building my AI/robotics environment around **Ubuntu + NVIDIA CUDA**
+* 🔬 Interested in experimentation, research, and dataset-driven AI projects
+* 🎯 Long-term goal: build intelligent systems that can **perceive, reason, and act**
 
 ---
 
-### 🧠 Languages & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,opencv,mysql,flask,docker,linux,git,bash,arduino" />
-</p>
-
-### 📊 Data & Machine Learning
-
-`Python` • `Pandas` • `Scikit-learn` • `PyTorch` • `TensorFlow` • `OpenCV`
-
----
-
-### 🎯 Current Focus
+## 🚀 What I'm Currently Exploring
 
 ```text
-AI Engineering
-├── Machine Learning
-├── Deep Learning
+Embodied AI
+│
+├── Artificial Intelligence
+│   ├── Machine Learning
+│   ├── Deep Learning
+│   ├── AI Agents
+│   └── NLP
+│
 ├── Computer Vision
-├── MLOps
-├── AI Agents
-└── Robotics
+│   ├── OpenCV
+│   ├── YOLO
+│   └── Visual Perception
+│
+├── Robotics
+│   ├── ROS 2
+│   ├── Gazebo
+│   ├── Robot Control
+│   └── Navigation
+│
+├── Robot Learning
+│   ├── Reinforcement Learning
+│   └── Language-to-Action
+│
+└── AI Engineering
+    ├── Docker
+    ├── MLOps
+    ├── Deployment
+    └── Model Monitoring
 ```
 
 ---
 
-### 📈 GitHub Statistics
+## 🛠️ Languages & Tools
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=dermawanw&show_icons=true&hide_border=true"
-    alt="GitHub Stats"
-  />
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dermawanw&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
+`Scikit-learn` • `Pandas` • `NumPy` • `YOLO`
+
+### Robotics & Simulation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=dermawanw&hide_border=true"
-    alt="GitHub Streak"
-  />
+`ROS 2` • `Gazebo` • `RViz` • `URDF` • `MuJoCo`
+
+### AI Engineering & MLOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,bash" />
 </p>
+
+`MLflow` • `Model Deployment` • `Model Monitoring` • `CI/CD`
+
+### Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java" />
+</p>
+
+### Development Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,linux,anaconda" />
+</p>
+
+`Jupyter Notebook` • `Conda`
 
 ---
 
-### 🌐 Connect With Me
+## 🔭 Current Learning Path
 
-<p align="left">
-  <a href="https://github.com/dermawanw">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-</p>
+```text
+Python + Math
+      ↓
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+Computer Vision
+      ↓
+ROS 2 + Robotics
+      ↓
+Simulation
+      ↓
+Robot Learning
+      ↓
+Language → Perception → Planning → Action
+      ↓
+Embodied AI
+```
 
 ---
 
-<p align="center">
-  <i>Building, breaking, learning, and building again.</i>
-</p>
+## 🧪 Areas I'm Interested In
+
+* 🤖 Embodied Artificial Intelligence
+* 🦾 Robotics & Physical AI
+* 👁️ Computer Vision
+* 🧠 Machine Learning & Deep Learning
+* 🗣️ Natural Language Processing
+* 🧩 AI Agents
+* 🎮 Robotics Simulation
+* ⚙️ MLOps & Production ML
+* 🔬 AI Research
+* 🌐 Open-source AI systems
+
+---
+
+##
