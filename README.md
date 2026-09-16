@@ -130,16 +130,10 @@ Embodied AI
 
 ## 🧪 Areas I'm Interested In
 
-* 🤖 Embodied Artificial Intelligence
-* 🦾 Robotics & Physical AI
-* 👁️ Computer Vision
-* 🧠 Machine Learning & Deep Learning
-* 🗣️ Natural Language Processing
-* 🧩 AI Agents
-* 🎮 Robotics Simulation
-* ⚙️ MLOps & Production ML
-* 🔬 AI Research
-* 🌐 Open-source AI systems
+* 🤖 **Embodied AI & Physical AI**
+* 👁️ **Computer Vision for Robotics**
+* 🧠 **Machine Learning & Deep Learning**
+* ⚙️ **MLOps & AI System Deployment**
 
 ---
 
