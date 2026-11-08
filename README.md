@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rizal Dermawan</h1>
 
 <h3 align="center">
-AI Engineering • Embodied AI • Computer Vision • Robotics
+Computer Science Student • Applied AI & Computer Vision • Aspiring Robotics Engineer
 </h3>
 
 <p align="center">
@@ -12,129 +12,79 @@ AI Engineering • Embodied AI • Computer Vision • Robotics
 
 ## 🧠 About Me
 
-I'm a Computer Science student exploring the intersection of **Artificial Intelligence and Robotics**.
+I am an undergraduate Computer Science student focusing on **Computer Vision** and **Applied AI Engineering**, currently building a bridge toward **Robotics (ROS 2)**. 
 
-My current direction is toward **Embodied AI** — intelligent systems that can perceive their environment, understand instructions, make decisions, and interact with the physical world.
+I prefer learning by building, running controlled experiments, and testing how models behave under different constraints inside a **WSL2 Ubuntu + NVIDIA CUDA** environment.
 
-* 🤖 Currently learning **AI Engineering & Embodied AI**
-* 👁️ Exploring **Computer Vision, Robot Perception, and Intelligent Agents**
-* 🦾 Learning **ROS 2, robotics simulation, and robot control**
-* 🧠 Building stronger foundations in **Machine Learning & Deep Learning**
-* ⚙️ Interested in **MLOps, deployment, monitoring, and production AI systems**
-* 🐧 Building my AI/robotics environment around **Ubuntu + NVIDIA CUDA**
-* 🔬 Interested in experimentation, research, and dataset-driven AI projects
-* 🎯 Long-term goal: build intelligent systems that can **perceive, reason, and act**
+- 🎯 **Current Status:** Preparing for **AI / Computer Vision / Robotics Software Engineering Internships**
+- 👁️ **Primary Focus:** Deep Learning for Computer Vision (PyTorch, CNNs, Transfer Learning, OpenCV)
+- 🤖 **Currently Learning:** ROS 2 fundamentals, Linux systems programming, and simulation workflows
+- 🔬 **Engineering Approach:** Reproducible environments (`uv` / Conda), ablation testing, and clean modular code
 
 ---
 
-## 🚀 What I'm Currently Exploring
+## 🧪 Hands-On Projects & Technical Explorations
 
-```text
-Embodied AI
-│
-├── Artificial Intelligence
-│   ├── Machine Learning
-│   ├── Deep Learning
-│   ├── AI Agents
-│   └── NLP
-│
-├── Computer Vision
-│   ├── OpenCV
-│   ├── YOLO
-│   └── Visual Perception
-│
-├── Robotics
-│   ├── ROS 2
-│   ├── Gazebo
-│   ├── Robot Control
-│   └── Navigation
-│
-├── Robot Learning
-│   ├── Reinforcement Learning
-│   └── Language-to-Action
-│
-└── AI Engineering
-    ├── Docker
-    ├── MLOps
-    ├── Deployment
-    └── Model Monitoring
-```
+Rather than just studying theory, I focus on practical implementation across vision, neural simulation, and 3D automation:
+
+- **🖼️ CNN Transfer Learning Benchmark (PyTorch):** Evaluated ResNet-18 across baseline, feature extraction, progressive fine-tuning, and unaugmented control scenarios on the Oxford-IIIT Pet dataset.
+- **🧬 Connectome Spiking Neural Network Simulation:** Modeled biological neural pathways using the *Virtual Fly Brain* (*Drosophila*) dataset with `Brian2` and `neuprint-python`.
+- **🤖 Interactive 3D AI Assistant Automation:** Built programmatic 3D character control and shape-key animations in Blender using Python scripting (`bpy`).
+- **🦾 ROS 2 & Robotics Foundations (In Progress):** Building foundational nodes, workspace packages, and sensor processing pipelines on Ubuntu.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🗺️ Technical Focus & Learning Roadmap
 
-### AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
-</p>
-
-`Scikit-learn` • `Pandas` • `NumPy` • `YOLO`
-
-### Robotics & Simulation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
-</p>
-
-`ROS 2` • `Gazebo` • `RViz` • `URDF` • `MuJoCo`
-
-### AI Engineering & MLOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,bash" />
-</p>
-
-`MLflow` • `Model Deployment` • `Model Monitoring` • `CI/CD`
-
-### Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,java" />
-</p>
-
-### Development Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,linux,anaconda" />
-</p>
-
-`Jupyter Notebook` • `Conda`
+<pre>
+Current Foundation (Hands-On)          Active Exploration (In Progress)
+├── Applied AI & Computer Vision       ├── Robotics Middleware
+│   ├── PyTorch & Torchvision          │   ├── ROS 2 Nodes & Topics
+│   ├── CNNs & Transfer Learning       │   ├── URDF & TF2 Frames
+│   └── OpenCV Image Processing        │   └── Gazebo Simulation
+│                                      │
+├── Computational & 3D Scripting       └── Production AI Engineering
+│   ├── Brian2 (Spiking Neural Nets)       ├── ONNX / Model Optimization
+│   └── Blender Python API (bpy)           └── Docker Containerization
+│
+└── Core Development Workflow
+    ├── Linux (WSL2 Ubuntu) + Bash
+    ├── Python (uv, Conda, Jupyter)
+    └── C (Data Structures & Pointers)
+</pre>
 
 ---
 
-## 🔭 Current Learning Path
+## 🛠️ Tech Stack & Environment
 
-```text
-Python + Math
-      ↓
-Machine Learning
-      ↓
-Deep Learning
-      ↓
-Computer Vision
-      ↓
-ROS 2 + Robotics
-      ↓
-Simulation
-      ↓
-Robot Learning
-      ↓
-Language → Perception → Planning → Action
-      ↓
-Embodied AI
-```
+### Core Languages & Frameworks (Used in Projects)
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,pytorch,opencv,blender" />
+</p>
 
-## 🧪 Areas I'm Interested In
+`PyTorch` • `OpenCV` • `NumPy` • `Pandas` • `Scikit-learn` • `Brian2` • `MATLAB`
 
-* 🤖 **Embodied AI & Physical AI**
-* 👁️ **Computer Vision for Robotics**
-* 🧠 **Machine Learning & Deep Learning**
-* ⚙️ **MLOps & AI System Deployment**
+### Environment & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,git,github,bash,anaconda" />
+</p>
+
+`WSL2 Ubuntu` • `uv` • `Conda` • `Jupyter Notebook` • `NVIDIA CUDA`
+
+### Currently Learning & Practicing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ros,docker,cpp" />
+</p>
+
+`ROS 2` • `Gazebo` • `Docker` • `Modern C++`
 
 ---
 
-##
+## 📫 Let's Connect
+
+- 💼 **Status:** Open to **Internship opportunities** in **AI Engineering, Computer Vision, and Robotics Software**
+- 🌐 **Portfolio & Repositories:** [github.com/dermawanw](https://github.com/dermawanw?tab=repositories)
+- ✉️ **Contact:** Reach out via GitHub or LinkedIn for technical collaboration and internship roles
