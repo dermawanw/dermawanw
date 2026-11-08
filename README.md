@@ -86,5 +86,3 @@ Current Foundation (Hands-On)          Active Exploration (In Progress)
 ## 📫 Let's Connect
 
 - 💼 **Status:** Open to **Internship opportunities** in **AI Engineering, Computer Vision, and Robotics Software**
-- 🌐 **Portfolio & Repositories:** [github.com/dermawanw](https://github.com/dermawanw?tab=repositories)
-- ✉️ **Contact:** Reach out via GitHub or LinkedIn for technical collaboration and internship roles
